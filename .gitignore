@@ -36,8 +36,3 @@ coverage/
 # Build outputs
 dist/
 build/
-
-# Git 임시 파일
-*.orig
-.git/logs/
-COMMIT_EDITMSG
