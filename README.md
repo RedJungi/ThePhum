@@ -43,5 +43,10 @@ Node.js + React를 사용한 실시간 프로세스 모니터링 웹사이트
 
 ## 8/4 추가 사항
 - **Node.js 학습 커밋**
-- **클라이언트와 서버의 간단한 webSocket 통신 구현**
-- **ws 모듈의 사용**
+-**WebSocket 실시간 통신 구현**
+
+- **WebSocket 서버 및 클라이언트 추가**
+- **Express + WebSocket 통합 서버 구현**
+- **실시간 양방향 메시징 시스템**
+- **package.json에 express, ws 종속성 추가**
+- **README.md 업데이트"**
